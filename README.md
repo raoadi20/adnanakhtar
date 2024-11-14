@@ -1,2 +1,2 @@
-# adnanakhtar
-My Portfolio
+# Adnan Akhtar
+My Responsive Portfolio
